@@ -1,0 +1,3 @@
+### Base MERN Monorepo
+
+This is a MERN (Mongo-Express-React-Node) base project for develop a new web using Next as React framework with a servr with SSR. It makes necessary to use a Lerna monorepo with two packackes, Next with front-end and the Server with back-end. It has some packages installed like Graphql for the api. The purpose of this repo is to have the requirements to start a MERN project with SSR.
